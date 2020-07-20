@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5170671",
+      "name": "笔记本",
+      "font_class": "bijiben",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "6804057",
+      "name": "Chat-Help 2",
+      "font_class": "Chat-Help",
+      "unicode": "e84f",
+      "unicode_decimal": 59471
+    },
+    {
+      "icon_id": "6804714",
+      "name": "Picture-1",
+      "font_class": "Picture-",
+      "unicode": "e902",
+      "unicode_decimal": 59650
+    },
+    {
+      "icon_id": "9231542",
+      "name": "视频倒放",
+      "font_class": "shipindaofang",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    }
+  ]
+}
